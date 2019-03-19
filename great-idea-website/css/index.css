@@ -159,7 +159,7 @@ main .mid-page-accent {
 .section-top,
 .section-bottom {
 	display: inline-block;
-	margin: 2em 0px;
+	margin: 3em 0px;
 }
 
 .section-top-content,
@@ -177,7 +177,9 @@ main .mid-page-accent {
 	width: 31%;
 }
 
-
+.contact {
+	border-top: 1px solid black;
+}
 
 .contact a,
 .contact p {
